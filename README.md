@@ -9,7 +9,7 @@
 <p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=LindoNkambule&count_private=true&show_icons=true&theme=vue&hide_title=True">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LindoNkambule&hide=html&theme=vue&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LindoNkambule&langs_count=7&count_private=true&theme=vue">
 
 </p>
 
